@@ -1,0 +1,5 @@
+[+] Port 22 is open | Banner: [Failed to grab]
+[+] Port 120 is open | Banner: [Failed to grab]
+[+] Port 25 is open | Banner: [Failed to grab]
+[+] Port 90 is open | Banner: [Failed to grab]
+[+] Port 23 is open | Banner: [Failed to grab]
